@@ -1,6 +1,6 @@
 package org.ccsunnyfd.design.factory;
 
-import org.ccsunnyfd.design.button.Button;
+import org.ccsunnyfd.design.button.IButton;
 import org.ccsunnyfd.design.button.WindowsButton;
 
 /**
@@ -8,9 +8,9 @@ import org.ccsunnyfd.design.button.WindowsButton;
  *
  * @version 1.0
  */
-public class WindowsDialog extends Dialog {
+public class WinButtonFactory extends ButtonFactory {
     @Override
-    public Button createButton() {
+    public IButton createButton() {
         return new WindowsButton();
     }
 }

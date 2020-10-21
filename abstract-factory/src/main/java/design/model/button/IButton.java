@@ -1,11 +1,10 @@
-package org.ccsunnyfd.design.button;
+package design.model.button;
 
 /**
  * Common interface for all buttons
  *
  * @version 1.0
  */
-public interface Button {
+public interface IButton {
     void render();
-    void onClick();
 }

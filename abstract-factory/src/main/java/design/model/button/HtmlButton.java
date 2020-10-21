@@ -1,4 +1,4 @@
-package org.ccsunnyfd.design.button;
+package design.model.button;
 
 /**
  * Html Button implementation
@@ -9,11 +9,5 @@ public class HtmlButton implements IButton {
     @Override
     public void render() {
         System.out.println("<button>Html Button</button>");
-        onClick();
-    }
-
-    @Override
-    public void onClick() {
-        System.out.println("Click html button!");
     }
 }

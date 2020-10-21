@@ -1,7 +1,7 @@
 package org.ccsunnyfd.design;
 
+import org.ccsunnyfd.design.button.IButton;
 import org.ccsunnyfd.design.factory.ButtonFactory;
-import org.ccsunnyfd.design.factory.ButtonFactoryMap;
 
 /**
  * Demo class. Everything comes together here.
@@ -9,7 +9,7 @@ import org.ccsunnyfd.design.factory.ButtonFactoryMap;
  * @version 1.0
  */
 public class Demo {
-    private static ButtonFactory dialog;
+    private static IButton button;
 
     public static void main(String[] args) {
         configure();
@@ -17,11 +17,11 @@ public class Demo {
     }
 
     static void configure() {
-        dialog = ButtonFactoryMap.getButtonFactory(System.getProperty("os.name"));
+        button = ButtonFactory.createButton(System.getProperty("os.name"));
     }
 
     private static void runBussinessLogic() {
-        dialog.renderWindow();
+        button.render();
     }
 
 }

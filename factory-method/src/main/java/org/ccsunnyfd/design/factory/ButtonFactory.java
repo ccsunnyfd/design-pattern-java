@@ -1,6 +1,6 @@
 package org.ccsunnyfd.design.factory;
 
-import org.ccsunnyfd.design.button.Button;
+import org.ccsunnyfd.design.button.IButton;
 
 /**
  * Base factory class. Note that "factory" is merely a role for the class. It
@@ -8,13 +8,13 @@ import org.ccsunnyfd.design.button.Button;
  * created.
  * @version 1.0
  */
-public abstract class Dialog {
+public abstract class ButtonFactory {
 
     public void renderWindow() {
-        Button okButton = createButton();
-        okButton.render();
+        IButton okIButton = createButton();
+        okIButton.render();
     }
 
 
-    public abstract Button createButton();
+    public abstract IButton createButton();
 }

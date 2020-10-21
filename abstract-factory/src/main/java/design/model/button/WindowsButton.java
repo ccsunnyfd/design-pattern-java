@@ -1,4 +1,4 @@
-package org.ccsunnyfd.design.button;
+package design.model.button;
 
 /**
  * Windows Button implementation
@@ -9,11 +9,5 @@ public class WindowsButton implements IButton {
     @Override
     public void render() {
         System.out.println("<button>Windows Button</button>");
-        onClick();
-    }
-
-    @Override
-    public void onClick() {
-        System.out.println("Click windows button!");
     }
 }
