@@ -2,70 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e73abcce-2844-41a7-b7a9-c47c51a50466" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/abstract-factory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/design/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/design/factory/GuiFactoryMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/design/factory/HtmlFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/design/factory/IGuiFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/design/factory/WinFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/design/model/button/HtmlButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/design/model/button/IButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/design/model/button/WindowsButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/design/model/checkbox/HtmlCheckbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/design/model/checkbox/ICheckbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/src/main/java/design/model/checkbox/WindowsCheckbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/target/classes/design/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/target/classes/design/factory/GuiFactoryMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/target/classes/design/factory/HtmlFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/target/classes/design/factory/IGuiFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/target/classes/design/factory/WinFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/target/classes/design/model/button/HtmlButton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/target/classes/design/model/button/IButton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/target/classes/design/model/button/WindowsButton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/target/classes/design/model/checkbox/HtmlCheckbox.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/target/classes/design/model/checkbox/ICheckbox.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/abstract-factory/target/classes/design/model/checkbox/WindowsCheckbox.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory-method/src/main/java/org/ccsunnyfd/design/factory/ButtonFactoryMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory-method/target/classes/META-INF/factory-method.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory-method/target/classes/org/ccsunnyfd/design/button/IButton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory-method/target/classes/org/ccsunnyfd/design/factory/ButtonFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory-method/target/classes/org/ccsunnyfd/design/factory/ButtonFactoryMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple-factory/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple-factory/simple-factory.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple-factory/src/main/java/org/ccsunnyfd/design/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple-factory/src/main/java/org/ccsunnyfd/design/button/HtmlButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple-factory/src/main/java/org/ccsunnyfd/design/button/IButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple-factory/src/main/java/org/ccsunnyfd/design/button/WindowsButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple-factory/src/main/java/org/ccsunnyfd/design/factory/ButtonFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple-factory/target/classes/org/ccsunnyfd/design/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple-factory/target/classes/org/ccsunnyfd/design/button/HtmlButton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple-factory/target/classes/org/ccsunnyfd/design/button/WindowsButton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple-factory/target/classes/org/ccsunnyfd/design/factory/HtmlDialog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simple-factory/target/classes/org/ccsunnyfd/design/factory/WindowsDialog.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/ccsunnyfd/design/Demo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/ccsunnyfd/design/button/HtmlButton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/ccsunnyfd/design/button/IButton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/ccsunnyfd/design/button/WindowsButton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/org/ccsunnyfd/design/factory/ButtonFactory.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory-method/src/main/java/org/ccsunnyfd/design/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory-method/src/main/java/org/ccsunnyfd/design/Demo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory-method/src/main/java/org/ccsunnyfd/design/button/Button.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory-method/src/main/java/org/ccsunnyfd/design/button/IButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory-method/src/main/java/org/ccsunnyfd/design/button/HtmlButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory-method/src/main/java/org/ccsunnyfd/design/button/HtmlButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory-method/src/main/java/org/ccsunnyfd/design/button/WindowsButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory-method/src/main/java/org/ccsunnyfd/design/button/WindowsButton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory-method/src/main/java/org/ccsunnyfd/design/factory/Dialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory-method/src/main/java/org/ccsunnyfd/design/factory/ButtonFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory-method/src/main/java/org/ccsunnyfd/design/factory/HtmlDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory-method/src/main/java/org/ccsunnyfd/design/factory/HtmlButtonFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory-method/src/main/java/org/ccsunnyfd/design/factory/WindowsDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory-method/src/main/java/org/ccsunnyfd/design/factory/WinButtonFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory-method/target/classes/org/ccsunnyfd/design/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/factory-method/target/classes/org/ccsunnyfd/design/Demo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory-method/target/classes/org/ccsunnyfd/design/button/Button.class" beforeDir="false" afterPath="$PROJECT_DIR$/simple-factory/target/classes/org/ccsunnyfd/design/button/Button.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory-method/target/classes/org/ccsunnyfd/design/button/HtmlButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/factory-method/target/classes/org/ccsunnyfd/design/button/HtmlButton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory-method/target/classes/org/ccsunnyfd/design/button/WindowsButton.class" beforeDir="false" afterPath="$PROJECT_DIR$/factory-method/target/classes/org/ccsunnyfd/design/button/WindowsButton.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory-method/target/classes/org/ccsunnyfd/design/factory/Dialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/simple-factory/target/classes/org/ccsunnyfd/design/factory/Dialog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory-method/target/classes/org/ccsunnyfd/design/factory/HtmlDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/factory-method/target/classes/org/ccsunnyfd/design/factory/HtmlDialog.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/factory-method/target/classes/org/ccsunnyfd/design/factory/WindowsDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/factory-method/target/classes/org/ccsunnyfd/design/factory/WindowsDialog.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,12 +18,20 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
@@ -103,27 +49,33 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/abstract-factory/src/main/java/design/model/checkbox" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../itstack-demo-design" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="design.factory" />
-      <recent name="org.ccsunnyfd.design.factory" />
-      <recent name="org.ccsunnyfd.design.button" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\David\design-pattern-java\abstract-factory\src\main\java\design\model\checkbox" />
       <recent name="C:\Users\David\design-pattern-java\abstract-factory\src\main\java" />
       <recent name="C:\Users\David\design-pattern-java" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.ccsunnyfd.design.product" />
+      <recent name="org.ccsunnyfd.design.builder" />
+      <recent name="org.ccsunnyfd.design.components" />
+      <recent name="design.factory" />
+      <recent name="org.ccsunnyfd.design.factory" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.ccsunnyfd.design.product" />
+      <recent name="org.ccsunnyfd.design.builder" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Demo (2)">
+  <component name="RunManager" selected="Application.Demo (3)">
     <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
       <module name="design-pattern-java" />
@@ -152,10 +104,36 @@
     </configuration>
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
+      <module name="design-pattern-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ccsunnyfd.design.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
       <module name="factory-method" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ccsunnyfd.design.*" />
+          <option name="PATTERN" value="org.ccsunnyfd.design.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
+      <module name="builder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ccsunnyfd.design.product.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,6 +143,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo (3)" />
         <item itemvalue="Application.Demo (2)" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.Demo (1)" />
@@ -198,7 +177,9 @@
       <workItem from="1603245642754" duration="1983000" />
       <workItem from="1603249036387" duration="535000" />
       <workItem from="1603250507506" duration="310000" />
-      <workItem from="1603250846391" duration="8144000" />
+      <workItem from="1603250846391" duration="11593000" />
+      <workItem from="1603357744322" duration="2099000" />
+      <workItem from="1603418511023" duration="14378000" />
     </task>
     <servers />
   </component>
@@ -210,10 +191,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1382" y="479" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603174763036" />
-    <state x="1530" y="386" key="#com.intellij.ide.util.MemberChooser" timestamp="1603262613558">
+    <state x="1503" y="386" key="#com.intellij.ide.util.MemberChooser" timestamp="1603428513663">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1530" y="386" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603262613558" />
+    <state x="1503" y="386" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603428513663" />
     <state x="970" y="475" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1603261972078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -226,29 +207,37 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1225" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603262686052" />
-    <state width="1315" height="282" key="GridCell.Tab.0.bottom" timestamp="1603263366169">
+    <state x="837" y="308" key="FileChooserDialogImpl" timestamp="1603418643471">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1315" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603263366169" />
-    <state width="1315" height="282" key="GridCell.Tab.0.center" timestamp="1603263366167">
+    <state x="837" y="308" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603418643471" />
+    <state width="1877" height="302" key="GridCell.Tab.0.bottom" timestamp="1603438426572">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1315" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603263366167" />
-    <state width="1315" height="282" key="GridCell.Tab.0.left" timestamp="1603263366167">
+    <state width="1877" height="302" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603438426572" />
+    <state width="1877" height="302" key="GridCell.Tab.0.center" timestamp="1603438426571">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1315" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603263366167" />
-    <state width="1315" height="282" key="GridCell.Tab.0.right" timestamp="1603263366168">
+    <state width="1877" height="302" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603438426571" />
+    <state width="1877" height="302" key="GridCell.Tab.0.left" timestamp="1603438426571">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1315" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603263366168" />
-    <state x="440" y="94" key="SettingsEditor" timestamp="1603264243203">
+    <state width="1877" height="302" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603438426571" />
+    <state width="1877" height="302" key="GridCell.Tab.0.right" timestamp="1603438426571">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603264243203" />
-    <state x="525" y="326" key="new project wizard" timestamp="1603261653496">
+    <state width="1877" height="302" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603438426571" />
+    <state x="477" y="132" key="SettingsEditor" timestamp="1603419255310">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="525" y="326" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603261653496" />
+    <state x="477" y="132" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603419255310" />
+    <state x="525" y="326" key="new project wizard" timestamp="1603359170666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="525" y="326" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603359170666" />
+    <state x="720" y="296" width="672" height="678" key="search.everywhere.popup" timestamp="1603419025086">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="720" y="296" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603419025086" />
   </component>
 </project>

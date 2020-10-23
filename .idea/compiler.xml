@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="abstract-factory" />
         <module name="factory-method" />
+        <module name="builder" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
