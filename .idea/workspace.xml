@@ -18,8 +18,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Enum" />
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -75,7 +75,7 @@
       <recent name="org.ccsunnyfd.design.builder" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo (3)">
+  <component name="RunManager" selected="Application.Demo (4)">
     <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
       <module name="design-pattern-java" />
@@ -105,6 +105,19 @@
     <configuration name="Demo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
       <module name="prototype" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ccsunnyfd.design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
+      <module name="singleton" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.ccsunnyfd.design.*" />
@@ -156,6 +169,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo (4)" />
         <item itemvalue="Application.Demo (3)" />
         <item itemvalue="Application.Demo (2)" />
         <item itemvalue="Application.Demo" />
@@ -194,7 +208,8 @@
       <workItem from="1603357744322" duration="2099000" />
       <workItem from="1603418511023" duration="14378000" />
       <workItem from="1603442729776" duration="30000" />
-      <workItem from="1603524189864" duration="2321000" />
+      <workItem from="1603524189864" duration="2405000" />
+      <workItem from="1603777185762" duration="2043000" />
     </task>
     <servers />
   </component>
@@ -222,34 +237,34 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1225" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603262686052" />
-    <state x="837" y="308" key="FileChooserDialogImpl" timestamp="1603418643471">
+    <state x="837" y="308" key="FileChooserDialogImpl" timestamp="1603777207263">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="837" y="308" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603418643471" />
-    <state width="1877" height="302" key="GridCell.Tab.0.bottom" timestamp="1603438426572">
+    <state x="837" y="308" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603777207263" />
+    <state width="1877" height="302" key="GridCell.Tab.0.bottom" timestamp="1603779386427">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603438426572" />
-    <state width="1877" height="302" key="GridCell.Tab.0.center" timestamp="1603438426571">
+    <state width="1877" height="302" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603779386427" />
+    <state width="1877" height="302" key="GridCell.Tab.0.center" timestamp="1603779386427">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603438426571" />
-    <state width="1877" height="302" key="GridCell.Tab.0.left" timestamp="1603438426571">
+    <state width="1877" height="302" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603779386427" />
+    <state width="1877" height="302" key="GridCell.Tab.0.left" timestamp="1603779386427">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603438426571" />
-    <state width="1877" height="302" key="GridCell.Tab.0.right" timestamp="1603438426571">
+    <state width="1877" height="302" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603779386427" />
+    <state width="1877" height="302" key="GridCell.Tab.0.right" timestamp="1603779386427">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603438426571" />
+    <state width="1877" height="302" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603779386427" />
     <state x="634" y="150" key="SettingsEditor" timestamp="1603524301380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="634" y="150" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603524301380" />
-    <state x="525" y="326" key="new project wizard" timestamp="1603524366549">
+    <state x="525" y="326" key="new project wizard" timestamp="1603778019832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="525" y="326" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603524366549" />
+    <state x="525" y="326" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603778019832" />
     <state x="720" y="296" width="672" height="678" key="search.everywhere.popup" timestamp="1603419025086">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
