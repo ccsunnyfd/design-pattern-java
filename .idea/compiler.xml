@@ -7,11 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="abstract-factory" />
-        <module name="prototype" />
+        <module name="singleton" />
+        <module name="adapter" />
         <module name="builder" />
         <module name="factory-method" />
-        <module name="singleton" />
+        <module name="abstract-factory" />
+        <module name="prototype" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
