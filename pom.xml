@@ -15,6 +15,7 @@
         <module>prototype</module>
         <module>singleton</module>
         <module>adapter</module>
+        <module>bridgePattern</module>
     </modules>
 
     <dependencies>
