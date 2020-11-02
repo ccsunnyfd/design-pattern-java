@@ -30,16 +30,10 @@ public class EmployeeRepo {
     }};
 
     public List<Long> getDepartmentEmployeeIds(long id) {
-        if (employeeMap.containsKey((Long)id)) {
-            return employeeMap.get((Long)id);
-        }
-        return Collections.emptyList();
+        return employeeMap.getOrDefault((Long)id, Collections.emptyList());
     }
 
     public double getEmployeeSalary(long id) {
-        if (salaryMap.containsKey((Long)id)) {
-            return salaryMap.get((Long)id);
-        }
-        return 0d;
+        return salaryMap.getOrDefault((Long)id, 0d);
     }
 }

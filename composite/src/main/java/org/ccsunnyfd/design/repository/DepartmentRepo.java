@@ -16,9 +16,6 @@ public class DepartmentRepo {
     }};
 
     public List<Long> getSubDepartmentIds(long id) {
-        if (departmentMap.containsKey((Long)id)) {
-            return departmentMap.get((Long)id);
-        }
-        return Collections.emptyList();
+        return departmentMap.getOrDefault((Long)id, Collections.emptyList());
     }
 }
