@@ -9,12 +9,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="bridgePattern" />
         <module name="singleton" />
-        <module name="prototype" />
+        <module name="decorator" />
         <module name="composite" />
         <module name="builder" />
         <module name="factory-method" />
-        <module name="abstract-factory" />
+        <module name="prototype" />
         <module name="adapter" />
+        <module name="abstract-factory" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />

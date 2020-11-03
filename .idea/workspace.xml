@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e73abcce-2844-41a7-b7a9-c47c51a50466" name="Default Changelist" comment="" />
+    <list default="true" id="e73abcce-2844-41a7-b7a9-c47c51a50466" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +82,7 @@
   <component name="RunManager" selected="Application.Demo (1)">
     <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
-      <module name="composite" />
+      <module name="decorator" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.ccsunnyfd.design.*" />
@@ -102,9 +106,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
-      <module name="prototype" />
+      <module name="design-pattern-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ccsunnyfd.design.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
+      <module name="composite" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.ccsunnyfd.design.*" />
@@ -117,10 +134,10 @@
     </configuration>
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
-      <module name="design-pattern-java" />
+      <module name="prototype" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ccsunnyfd.design.product.*" />
+          <option name="PATTERN" value="org.ccsunnyfd.design.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,6 +253,7 @@
       <list>
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Demo (1)" />
+        <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Demo (3)" />
         <item itemvalue="Application.Demo (2)" />
       </list>
@@ -280,6 +298,8 @@
       <workItem from="1604050242777" duration="1326000" />
       <workItem from="1604140649625" duration="2483000" />
       <workItem from="1604226519316" duration="4507000" />
+      <workItem from="1604278295927" duration="2651000" />
+      <workItem from="1604369165189" duration="3244000" />
     </task>
     <servers />
   </component>
@@ -295,10 +315,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1382" y="479" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603174763036" />
-    <state x="1503" y="386" key="#com.intellij.ide.util.MemberChooser" timestamp="1604226916671">
+    <state x="1503" y="386" key="#com.intellij.ide.util.MemberChooser" timestamp="1604372602552">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1503" y="386" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604226916671" />
+    <state x="1503" y="386" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604372602552" />
     <state x="970" y="475" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1603261972078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -315,22 +335,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="837" y="308" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603777207263" />
-    <state width="1877" height="302" key="GridCell.Tab.0.bottom" timestamp="1604231035932">
+    <state width="1475" height="232" key="GridCell.Tab.0.bottom" timestamp="1604373280038">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604231035932" />
-    <state width="1877" height="302" key="GridCell.Tab.0.center" timestamp="1604231035932">
+    <state width="1475" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604373280038" />
+    <state width="1475" height="232" key="GridCell.Tab.0.center" timestamp="1604373280038">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604231035932" />
-    <state width="1877" height="302" key="GridCell.Tab.0.left" timestamp="1604231035932">
+    <state width="1475" height="232" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604373280038" />
+    <state width="1475" height="232" key="GridCell.Tab.0.left" timestamp="1604373280038">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604231035932" />
-    <state width="1877" height="302" key="GridCell.Tab.0.right" timestamp="1604231035932">
+    <state width="1475" height="232" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604373280038" />
+    <state width="1475" height="232" key="GridCell.Tab.0.right" timestamp="1604373280038">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604231035932" />
+    <state width="1475" height="232" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604373280038" />
     <state x="634" y="150" key="SettingsEditor" timestamp="1603524301380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -339,10 +359,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1034" y="284" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604227196085" />
-    <state x="525" y="326" key="new project wizard" timestamp="1604226554215">
+    <state x="525" y="326" key="new project wizard" timestamp="1604369185905">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="525" y="326" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1604226554215" />
+    <state x="525" y="326" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1604369185905" />
     <state x="720" y="296" width="672" height="678" key="search.everywhere.popup" timestamp="1604278362001">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
