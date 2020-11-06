@@ -82,7 +82,7 @@
   <component name="RunManager" selected="Application.Demo (1)">
     <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
-      <module name="facade" />
+      <module name="flyweightPattern" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.ccsunnyfd.design.*" />
@@ -111,7 +111,59 @@
       <module name="decorator" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.ccsunnyfd.design.*" />
+          <option name="PATTERN" value="org.ccsunnyfd.design.chessPieceUnit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
+      <module name="facade" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ccsunnyfd.design.chessPieceUnit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
+      <module name="design-pattern-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ccsunnyfd.design.adapters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
+      <module name="prototype" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ccsunnyfd.design.adapters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
+      <module name="singleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ccsunnyfd.design.adapters.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,52 +275,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
-      <module name="design-pattern-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.ccsunnyfd.design.adapters.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
-      <module name="prototype" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.ccsunnyfd.design.adapters.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
-      <module name="singleton" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.ccsunnyfd.design.adapters.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Demo (1)" />
-        <item itemvalue="Application.Demo (2)" />
+        <item itemvalue="Application.Demo (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -313,7 +326,8 @@
       <workItem from="1604226519316" duration="4507000" />
       <workItem from="1604278295927" duration="2651000" />
       <workItem from="1604369165189" duration="3382000" />
-      <workItem from="1604563362911" duration="1674000" />
+      <workItem from="1604563362911" duration="1776000" />
+      <workItem from="1604641448282" duration="3587000" />
     </task>
     <servers />
   </component>
@@ -329,10 +343,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1382" y="479" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603174763036" />
-    <state x="1503" y="386" key="#com.intellij.ide.util.MemberChooser" timestamp="1604372602552">
+    <state x="1503" y="386" key="#com.intellij.ide.util.MemberChooser" timestamp="1604644882239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1503" y="386" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604372602552" />
+    <state x="1503" y="386" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604644882239" />
     <state x="970" y="475" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1603261972078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -349,22 +363,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="837" y="308" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603777207263" />
-    <state width="1475" height="232" key="GridCell.Tab.0.bottom" timestamp="1604565104276">
+    <state width="1475" height="229" key="GridCell.Tab.0.bottom" timestamp="1604645170158">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1475" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604565104276" />
-    <state width="1475" height="232" key="GridCell.Tab.0.center" timestamp="1604565104276">
+    <state width="1475" height="229" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604645170158" />
+    <state width="1475" height="229" key="GridCell.Tab.0.center" timestamp="1604645170157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1475" height="232" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604565104276" />
-    <state width="1475" height="232" key="GridCell.Tab.0.left" timestamp="1604565104275">
+    <state width="1475" height="229" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604645170157" />
+    <state width="1475" height="229" key="GridCell.Tab.0.left" timestamp="1604645170157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1475" height="232" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604565104275" />
-    <state width="1475" height="232" key="GridCell.Tab.0.right" timestamp="1604565104276">
+    <state width="1475" height="229" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604645170157" />
+    <state width="1475" height="229" key="GridCell.Tab.0.right" timestamp="1604645170157">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1475" height="232" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604565104276" />
+    <state width="1475" height="229" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604645170157" />
     <state x="634" y="150" key="SettingsEditor" timestamp="1603524301380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -373,10 +387,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1034" y="284" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604227196085" />
-    <state x="525" y="326" key="new project wizard" timestamp="1604563561860">
+    <state x="525" y="326" key="new project wizard" timestamp="1604641798303">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="525" y="326" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1604563561860" />
+    <state x="525" y="326" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1604641798303" />
     <state x="720" y="296" width="672" height="678" key="search.everywhere.popup" timestamp="1604563765954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
