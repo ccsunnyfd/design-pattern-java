@@ -7,16 +7,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="flyweightPattern" />
+        <module name="facade" />
         <module name="singleton" />
         <module name="decorator" />
         <module name="composite" />
-        <module name="adapter" />
+        <module name="flyweightPattern" />
         <module name="builder" />
         <module name="bridgePattern" />
+        <module name="proxy" />
         <module name="prototype" />
         <module name="factory-method" />
-        <module name="facade" />
+        <module name="adapter" />
         <module name="abstract-factory" />
       </profile>
     </annotationProcessing>
