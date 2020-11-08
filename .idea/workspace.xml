@@ -61,10 +61,10 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="org.ccsunnyfd.design" />
-      <recent name="org.ccsunnyfd.design.product" />
-      <recent name="org.ccsunnyfd.design.builder" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\David\design-pattern-java\abstract-factory\src\main\java\design\model\checkbox" />
+      <recent name="C:\Users\David\design-pattern-java\abstract-factory\src\main\java" />
+      <recent name="C:\Users\David\design-pattern-java" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="org.ccsunnyfd.design" />
@@ -73,13 +73,13 @@
       <recent name="org.ccsunnyfd.design.product" />
       <recent name="org.ccsunnyfd.design.builder" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\David\design-pattern-java\abstract-factory\src\main\java\design\model\checkbox" />
-      <recent name="C:\Users\David\design-pattern-java\abstract-factory\src\main\java" />
-      <recent name="C:\Users\David\design-pattern-java" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.ccsunnyfd.design" />
+      <recent name="org.ccsunnyfd.design.product" />
+      <recent name="org.ccsunnyfd.design.builder" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Demo (1)">
+  <component name="RunManager" selected="Application.Demo (3)">
     <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
       <module name="proxy" />
@@ -106,12 +106,90 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Demo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
+      <module name="chainOfResponsibility" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ccsunnyfd.design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
       <module name="decorator" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.ccsunnyfd.design.chessPieceUnit.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
+      <module name="singleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ccsunnyfd.design.adapters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
+      <module name="design-pattern-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ccsunnyfd.design.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
+      <module name="factory-method" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ccsunnyfd.design.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
+      <module name="builder" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ccsunnyfd.design.product.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
+      <module name="composite" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ccsunnyfd.design.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -223,74 +301,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
-      <module name="singleton" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.ccsunnyfd.design.adapters.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
-      <module name="design-pattern-java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.ccsunnyfd.design.product.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
-      <module name="factory-method" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.ccsunnyfd.design.product.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
-      <module name="builder" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.ccsunnyfd.design.product.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
-      <module name="composite" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.ccsunnyfd.design.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Demo (1)" />
+        <item itemvalue="Application.Demo (3)" />
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Demo (1)" />
@@ -341,7 +354,8 @@
       <workItem from="1604369165189" duration="3382000" />
       <workItem from="1604563362911" duration="1776000" />
       <workItem from="1604641448282" duration="3851000" />
-      <workItem from="1604713519612" duration="1366000" />
+      <workItem from="1604713519612" duration="1510000" />
+      <workItem from="1604810349498" duration="4662000" />
     </task>
     <servers />
   </component>
@@ -357,10 +371,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1382" y="479" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603174763036" />
-    <state x="1503" y="386" key="#com.intellij.ide.util.MemberChooser" timestamp="1604644882239">
+    <state x="1503" y="386" key="#com.intellij.ide.util.MemberChooser" timestamp="1604813064202">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1503" y="386" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604644882239" />
+    <state x="1503" y="386" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604813064202" />
     <state x="970" y="475" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1603261972078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -377,22 +391,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="837" y="308" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603777207263" />
-    <state width="1475" height="229" key="GridCell.Tab.0.bottom" timestamp="1604645429687">
+    <state width="1475" height="228" key="GridCell.Tab.0.bottom" timestamp="1604813247866">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1475" height="229" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604645429687" />
-    <state width="1475" height="229" key="GridCell.Tab.0.center" timestamp="1604645429686">
+    <state width="1475" height="228" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604813247866" />
+    <state width="1475" height="228" key="GridCell.Tab.0.center" timestamp="1604813247866">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1475" height="229" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604645429686" />
-    <state width="1475" height="229" key="GridCell.Tab.0.left" timestamp="1604645429686">
+    <state width="1475" height="228" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604813247866" />
+    <state width="1475" height="228" key="GridCell.Tab.0.left" timestamp="1604813247866">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1475" height="229" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604645429686" />
-    <state width="1475" height="229" key="GridCell.Tab.0.right" timestamp="1604645429687">
+    <state width="1475" height="228" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604813247866" />
+    <state width="1475" height="228" key="GridCell.Tab.0.right" timestamp="1604813247866">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1475" height="229" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604645429687" />
+    <state width="1475" height="228" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604813247866" />
     <state x="634" y="150" key="SettingsEditor" timestamp="1603524301380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -401,10 +415,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1034" y="284" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604227196085" />
-    <state x="525" y="326" key="new project wizard" timestamp="1604714157368">
+    <state x="525" y="326" key="new project wizard" timestamp="1604810587385">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="525" y="326" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1604714157368" />
+    <state x="525" y="326" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1604810587385" />
     <state x="720" y="296" width="672" height="678" key="search.everywhere.popup" timestamp="1604563765954">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -21,6 +21,7 @@
         <module>facade</module>
         <module>flyweightPattern</module>
         <module>proxy</module>
+        <module>chainOfResponsibility</module>
     </modules>
 
     <dependencies>

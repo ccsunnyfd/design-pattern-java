@@ -7,7 +7,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="facade" />
+        <module name="chainOfResponsibility" />
         <module name="singleton" />
         <module name="decorator" />
         <module name="composite" />
@@ -16,8 +16,9 @@
         <module name="bridgePattern" />
         <module name="proxy" />
         <module name="prototype" />
-        <module name="factory-method" />
         <module name="adapter" />
+        <module name="factory-method" />
+        <module name="facade" />
         <module name="abstract-factory" />
       </profile>
     </annotationProcessing>
