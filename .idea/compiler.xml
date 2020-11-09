@@ -7,19 +7,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="chainOfResponsibility" />
-        <module name="singleton" />
+        <module name="abstract-factory" />
         <module name="decorator" />
-        <module name="composite" />
-        <module name="flyweightPattern" />
         <module name="builder" />
-        <module name="bridgePattern" />
-        <module name="proxy" />
         <module name="prototype" />
+        <module name="flyweightPattern" />
+        <module name="composite" />
+        <module name="bridgePattern" />
+        <module name="chainOfResponsibility" />
+        <module name="facade" />
+        <module name="proxy" />
+        <module name="command" />
         <module name="adapter" />
         <module name="factory-method" />
-        <module name="facade" />
-        <module name="abstract-factory" />
+        <module name="singleton" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
