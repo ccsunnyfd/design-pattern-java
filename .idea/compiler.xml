@@ -8,19 +8,20 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="abstract-factory" />
+        <module name="singleton" />
         <module name="decorator" />
+        <module name="factory-method" />
         <module name="builder" />
-        <module name="prototype" />
         <module name="flyweightPattern" />
         <module name="composite" />
         <module name="bridgePattern" />
         <module name="chainOfResponsibility" />
         <module name="facade" />
+        <module name="iterator" />
         <module name="proxy" />
         <module name="command" />
         <module name="adapter" />
-        <module name="factory-method" />
-        <module name="singleton" />
+        <module name="prototype" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel target="8" />
