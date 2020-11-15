@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e73abcce-2844-41a7-b7a9-c47c51a50466" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/state/src/main/java/org/ccsunnyfd/design/state/SmallMario.java" beforeDir="false" afterPath="$PROJECT_DIR$/state/src/main/java/org/ccsunnyfd/design/state/SmallMario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,26 +61,26 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\David\design-pattern-java\abstract-factory\src\main\java\design\model\checkbox" />
+      <recent name="C:\Users\David\design-pattern-java\abstract-factory\src\main\java" />
+      <recent name="C:\Users\David\design-pattern-java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.ccsunnyfd.design.algorithm" />
+      <recent name="org.ccsunnyfd.design.state" />
+      <recent name="org.ccsunnyfd.design.observer" />
+      <recent name="org.ccsunnyfd.design.train" />
+      <recent name="org.ccsunnyfd.design.command" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.ccsunnyfd.design.snapshot" />
       <recent name="org.ccsunnyfd.design" />
       <recent name="org.ccsunnyfd.design.product" />
       <recent name="org.ccsunnyfd.design.builder" />
     </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="org.ccsunnyfd.design.state" />
-      <recent name="org.ccsunnyfd.design.observer" />
-      <recent name="org.ccsunnyfd.design.train" />
-      <recent name="org.ccsunnyfd.design.command" />
-      <recent name="org.ccsunnyfd.design" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\David\design-pattern-java\abstract-factory\src\main\java\design\model\checkbox" />
-      <recent name="C:\Users\David\design-pattern-java\abstract-factory\src\main\java" />
-      <recent name="C:\Users\David\design-pattern-java" />
-    </key>
   </component>
-  <component name="RunManager" selected="Application.Demo (1)">
+  <component name="RunManager" selected="Application.Demo (4)">
     <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
       <module name="state" />
@@ -109,6 +110,19 @@
     <configuration name="Demo (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
       <module name="iterator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.ccsunnyfd.design.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.ccsunnyfd.design.Demo" />
+      <module name="strategy" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.ccsunnyfd.design.*" />
@@ -394,6 +408,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo (4)" />
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Demo (3)" />
@@ -452,6 +467,7 @@
       <workItem from="1605150802033" duration="5004000" />
       <workItem from="1605229472090" duration="980000" />
       <workItem from="1605320924466" duration="8346000" />
+      <workItem from="1605402973437" duration="2325000" />
     </task>
     <servers />
   </component>
@@ -467,10 +483,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1382" y="479" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603174763036" />
-    <state x="1503" y="386" key="#com.intellij.ide.util.MemberChooser" timestamp="1605323930844">
+    <state x="1503" y="386" key="#com.intellij.ide.util.MemberChooser" timestamp="1605403781800">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1503" y="386" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605323930844" />
+    <state x="1503" y="386" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1605403781800" />
     <state x="970" y="475" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1603261972078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -487,22 +503,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="837" y="308" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603777207263" />
-    <state width="1877" height="298" key="GridCell.Tab.0.bottom" timestamp="1605335885910">
+    <state width="1475" height="298" key="GridCell.Tab.0.bottom" timestamp="1605405390708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605335885910" />
-    <state width="1877" height="298" key="GridCell.Tab.0.center" timestamp="1605335885910">
+    <state width="1475" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605405390708" />
+    <state width="1475" height="298" key="GridCell.Tab.0.center" timestamp="1605405390708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="298" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605335885910" />
-    <state width="1877" height="298" key="GridCell.Tab.0.left" timestamp="1605335885910">
+    <state width="1475" height="298" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605405390708" />
+    <state width="1475" height="298" key="GridCell.Tab.0.left" timestamp="1605405390707">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="298" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605335885910" />
-    <state width="1877" height="298" key="GridCell.Tab.0.right" timestamp="1605335885910">
+    <state width="1475" height="298" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605405390707" />
+    <state width="1475" height="298" key="GridCell.Tab.0.right" timestamp="1605405390708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="298" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605335885910" />
+    <state width="1475" height="298" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605405390708" />
     <state x="634" y="150" key="SettingsEditor" timestamp="1603524301380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -515,10 +531,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="674" y="216" width="844" height="590" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605061846486" />
-    <state x="525" y="326" key="new project wizard" timestamp="1605321257749">
+    <state x="525" y="326" key="new project wizard" timestamp="1605403227357">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="525" y="326" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1605321257749" />
+    <state x="525" y="326" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1605403227357" />
     <state x="1178" y="149" key="refactoring.ChangeSignatureDialog" timestamp="1605230167176">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
