@@ -3,7 +3,7 @@ package org.ccsunnyfd.design.state;
 import org.ccsunnyfd.design.stateMachine.MarioStateMachine;
 
 /**
- * Process
+ * SmallMario
  *
  * @version 1.0
  */
