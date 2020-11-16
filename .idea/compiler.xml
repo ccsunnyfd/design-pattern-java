@@ -12,6 +12,7 @@
         <module name="singleton" />
         <module name="decorator" />
         <module name="builder" />
+        <module name="templateMethod-Callback" />
         <module name="mediator" />
         <module name="flyweightPattern" />
         <module name="composite" />
